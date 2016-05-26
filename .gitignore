@@ -1,5 +1,6 @@
 # Exclude output directories
 kgml_output
+ncbi_downloads
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
