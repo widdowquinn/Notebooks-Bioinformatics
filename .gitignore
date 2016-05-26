@@ -2,6 +2,9 @@
 kgml_output
 ncbi_downloads
 
+# Exclude Emacs intermediate files
+*~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
