@@ -6,8 +6,10 @@ This repository contains Jupyter/iPython notebooks related to bioinformatics. So
 
 All notebooks are stored with blank output cells.
 
-Supporting information should always be available in subdirectories of this repository.
+Supporting information/data should always be available in subdirectories of this repository.
 
-## Contents
+## Running Notebooks
 
+You can run these notebooks on your own machine using [Project Jupyter](http://jupyter.org/), or at MyBinder, by visiting [http://mybinder.org/repo/widdowquinn/Notebooks-Bioinformatics](http://mybinder.org/repo/widdowquinn/Notebooks-Bioinformatics) or clicking on the button below:
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/widdowquinn/Notebooks-Bioinformatics)
