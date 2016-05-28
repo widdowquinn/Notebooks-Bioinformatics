@@ -1,5 +1,7 @@
 # README.md - Notebooks-Bioinformatics
 
+![License badge](https://img.shields.io/github/license/widdowquinn/Notebooks-Bioinformatics.svg)
+
 ## Introduction
 
 This repository contains Jupyter/iPython notebooks related to bioinformatics. Some of the notebooks are standalone examples/illustrations of concepts or code. Others are exercises or worksheets used in teaching, or for training courses.
